@@ -44,7 +44,7 @@ A dynamic, role-based interface that allows:
 - **React.js** – Modern frontend for an engaging user experience.  
 - **Razorpay API** – Secure and fast payment processing.  
 
-![LearnLynx Demo]
+### Backend part of project - https://github.com/Navdeepkaurs/LMS-Backend-fork.git
 ---
 ## 🤝 Team Collaboration  
 LearnLynx is a **group project**, where we worked together from **UI design to backend implementation**. Every aspect, from crafting an intuitive **user interface** to building a **robust backend**, was done collaboratively to ensure a **top-notch learning experience**.  
